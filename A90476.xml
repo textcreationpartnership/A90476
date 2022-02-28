@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A perfect narrative of the late proceedings of the Parliament of Scotland, in relation to the affaires of England. Also the manner of the funerall of the Right Honourable, Ferdinando Lord Fairfax : with the chief heads of his Lordships funerall-sermon, preached by Mr. Bowles. 15. March instant. And sundry other particulars concerning the L. Widdringdon, Sir Thomas Glemham, Sir Charles Lucas, and others late going into Scotland.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90476</idno>
+            <idno type="STC">Wing P1502</idno>
+            <idno type="STC">Thomason E433_13</idno>
+            <idno type="STC">ESTC R203151</idno>
+            <idno type="EEBO-CITATION">99863213</idno>
+            <idno type="PROQUEST">99863213</idno>
+            <idno type="VID">161545</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90476)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161545)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E433[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A perfect narrative of the late proceedings of the Parliament of Scotland, in relation to the affaires of England. Also the manner of the funerall of the Right Honourable, Ferdinando Lord Fairfax : with the chief heads of his Lordships funerall-sermon, preached by Mr. Bowles. 15. March instant. And sundry other particulars concerning the L. Widdringdon, Sir Thomas Glemham, Sir Charles Lucas, and others late going into Scotland.</title>
+                  <author>Bowles, Edward, 1613-1662.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Austin,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 22. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fairfax, Ferdinando Fairfax, --  Baron, 1584-1648 --  Death and burial --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Paul Schaffner</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161545:1" rendition="simple:additions"/>
+            <p>A perfect NARRATIVE Of the late Proceedings of the Parliament of Scotland, In relation to the Affaires of England.</p>
+            <p>Alſo the manner of the FVNERALL Of the Right Honourable, FERDINANDO Lord FAIRFAX: WITH The chief Heads of his Lordſhips Funerall-Ser<g ref="char:EOLhyphen"/>mon, preached by Mr. <hi>Bowles.</hi> 15. March inſtant.</p>
+            <p>And ſundry other particulars concerning the L. <hi>Widdring<g ref="char:EOLhyphen"/>don,</hi> Sir <hi>Thomas Glemham,</hi> Sir <hi>Charles Lucas,</hi> and others late going into <hi>Scotland.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Robert Auſtin.</hi> March 22. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="newsbook">
+            <div type="letter">
+               <pb facs="tcp:161545:2"/>
+               <pb n="1" facs="tcp:161545:2"/>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>NOtwithſtanding Captaine <hi>Wogans</hi> Alarum, and another relation ſince his marching into Scot<g ref="char:EOLhyphen"/>land of about 200 foot lately come out of Ireland lan<g ref="char:EOLhyphen"/>ded at Cheſter, and gone that way too by the incite<g ref="char:EOLhyphen"/>ment of a Cavalier Captain, who gave them money to drink, and told them they ſhould have two Moneths advance in Scotland if they would go thither &amp; fight for the King; we yet enjoy peace in theſe parts, and go on with the worke of ſetling theſe Forces now after the reducement of them into Quarters; Major <hi>Cholm<g ref="char:EOLhyphen"/>leys</hi> Troop in Northumberland, Capt. <hi>Lilburnes</hi> in the Biſhoprick, Capt. <hi>Stoddarts</hi> in Darby-ſhire, another in Lincolnſhire, all the Foot in Yorkſhire. The Field-Forces ſince the reducement are all muſter'd: and in regard we have but one Muſter-Maſter, his task is ſo great, that he cannot poſſibly in time muſter all the Forces in theſe parts; ſo that the Caſtles are not yet muſtered. I have here incloſed ſent you the Relation of the Lord <hi>Fairfax</hi> his Funerall. This is all at pre<g ref="char:EOLhyphen"/>ſent from</p>
+               <closer>
+                  <dateline>York <date>18. March, 1647.</date>
+                  </dateline>
+                  <signed>Your loving friend, <hi>T.A.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="2" facs="tcp:161545:3"/>
+               <head>The manner of the Funerall of the Right Honourable, <hi>Ferdinando L. Fair<g ref="char:EOLhyphen"/>fax.</hi>
+               </head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>ON Munday the 13. of March about noone the Lord <hi>Fairfax</hi> died at his houſe at Denton, and being appointed to be buried on Wedneſday, his Corps was brought on Wedneſday morning from thence in a Chariot with ſix Horſes attended by about 200, ſome Juſtices of the Peace, and other Gentle<g ref="char:EOLhyphen"/>men of the Countrey, and were met at Tadcaſter a<g ref="char:EOLhyphen"/>bout foure a clock afternoone by the Lord <hi>Fairfax</hi> of Gilling, the Lady <hi>Fairfax</hi> of Steeton, the Comman<g ref="char:EOLhyphen"/>der in chief and his Lady, and about 50 of the chiefe Officers of theſe Forces, who with the reſt attended him from thence to Bolton Piercy about 6. miles from Yorke, where his Body was firſt carried into his Bro<g ref="char:EOLhyphen"/>ther M. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Fairfax</hi> his houſe, and there the com<g ref="char:EOLhyphen"/>pany, being in all about 300 or more, were entertained with Wine and cakes, and each a black Riband given: Afterwards he was carried into the Church by the no<g ref="char:EOLhyphen"/>bleſt Bearers preſent, <hi>viz.</hi> the Lord <hi>Fairfax</hi> of Gil<g ref="char:EOLhyphen"/>ling, the Commander in chief, Colonell <hi>Maleverer,</hi> Sir <hi>Robert Barwick,</hi> M. <hi>Charles Fairfax,</hi> M. <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> 
+                  <hi>Fairfax</hi> his Lordſhips Brother, Colonell <hi>Fairfax,</hi> &amp;c.
+<pb n="3" facs="tcp:161545:3"/>being aſsiſted with divers Torch-lights, and interre in his Fathers Sepulchre, being about nine a clock at night, after which M. Boules aſcending the Pulpit, firſt ſung a Pſalme, then prayed and made a Sermon according to the uſuall manner, in the firſt place prefacing ac<g ref="char:EOLhyphen"/>cording to the occaſion, and afterwards ta<g ref="char:EOLhyphen"/>king his Text 2. Chron. 22.33. concerning the death and buriall of King Hezekiah the great Reformer and reſtorer of the Church and State of Judah, one paſſage was much taken notice of for ſpeaking by way of paral<g ref="char:EOLhyphen"/>lel between that good King and the noble Lord deceaſed, he expreſſed to this purpoſe, that he whoſe funerall we ſolemnize had the advantage of that great Reformer; for though he went farre in the worke, yet hee left a Manaſſeth behind him that undid all that he had done before him; but this Refor<g ref="char:EOLhyphen"/>mer hath left one behind him that treads in his Fathers ſteps, and I may ſay, one by whoſe faithfulneſſe and induſtry under God, we en<g ref="char:EOLhyphen"/>joy our preſent peace and ſecurity; at laſt he exhorted the Auditors to imitate that noble Lord.</p>
+               <pb n="4" facs="tcp:161545:4"/>
+               <p>Firſt in his younger yeares he was given to the ſtudy of Arts and Sciences, that muſt make him uſefull and ſerviceable to his Countrey, and not to Dogs, Hawkes, &amp;c.</p>
+               <p>In the choice of his wife, one who was vertuous, wiſe, &amp;c.</p>
+               <p>As a Juſtice of Peace, being very laborious in his place that way.</p>
+               <p>As a Gentleman of the Countrey, faith<g ref="char:EOLhyphen"/>full to his truſt, willing and ready to recon<g ref="char:EOLhyphen"/>cile differences between neighbour and neighbour, &amp;c.</p>
+               <p>As a Souldier (you that are Souldiers) faith<g ref="char:EOLhyphen"/>full, couragious and reſolute.</p>
+               <closer>
+                  <dateline>York, <date>March 18. 1647.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>FOr continuance of a juſt correſpondency with you, Newes from Scotland is, that that perfidious Wogan with his Troop and ſome Foot are there entertained, ſome mo<g ref="char:EOLhyphen"/>neyes ſent them, but by what hand or autho<g ref="char:EOLhyphen"/>rity
+<pb n="5" facs="tcp:161545:4"/>is not yet certainely knowne, only 100. l. from Lievtenant-Generall Middleton, and ſome ſay 1000. l. was ſent them beſides, and and ſome ſay 200. Foot are marched into Scotland, but we underſtand, care is taken for prevention of the like attempt by any o<g ref="char:EOLhyphen"/>thers. Sir Thomas Glemham, Sir Charles Lucas, the Lord Widdrington alſo, (as they ſay) and other great Cavaliers are entertain<g ref="char:EOLhyphen"/>ed here, ſome appeare publikely, but the reſt confine themſelves to their private chambers.</p>
+               <p>Their Parliament we are informed, con<g ref="char:EOLhyphen"/>ſiſts of three factions, one to raiſe an Army, to reſettle the King, the ſecond party not wil<g ref="char:EOLhyphen"/>ling to betruſt Malignants again with Arms, deſire to have an Army to root all Sectaries out of England: the third party, being the honeſt party, oppoſe all deſignes for Warre; and Marqueſſe Hamilton having given ſome affront to the Miniſters, they are extremely incenſed and bitter againſt the Cavaliers, and preſſe the people to ſtick faſt to their firſt principles, and they are framing an Oath to
+<pb n="6" facs="tcp:161545:5"/>be taken by their Countrey-men for taking away the Kings Negative Voice in Parlia<g ref="char:EOLhyphen"/>ment, and to be partly contrary to any de<g ref="char:EOLhyphen"/>ſigne for His Majeſty till he take the Cove<g ref="char:EOLhyphen"/>nant, with other particulars, &amp;c.</p>
+               <p>The Lord, Craford, Lindſey, Lord Trea<g ref="char:EOLhyphen"/>ſurer there apprehending ſome occaſion of diſtaſt in a Paſſage of M. Cants Sermon, and ſuſpecting it was occaſioned by Argiles appointment, ſent the Earle a challenge, and both with ſeconds met, but ſome noble men having intelligence thereof, immediately haſtned to them, and finding them out, pre<g ref="char:EOLhyphen"/>vented their ſighting, and ſo endeavour to take it up, but there is a ſuſpition it will not have a period ſo.</p>
+               <p>There is farre more feare of confuſion there amongſt themſelves, then any diſtur<g ref="char:EOLhyphen"/>bance from them to us.</p>
+               <closer>
+                  <dateline>Edenburgh, <date>March 14. 1647.</date>
+                  </dateline>
+               </closer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>Gilb. Mabbot.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
